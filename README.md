@@ -30,4 +30,17 @@ Fitur utama meliputi:
 
 ## Tata Cara Menjalankan Program
 ```bash
-   git clone 
+   git clone https://github.com/JSamuelN/Tugas4-II4021-2026.git
+   ```
+
+```bash
+   cd [path ke Tugas4-II4021-2026]
+   ```
+
+```bash
+   pip install pycryptodome
+   ```
+
+```bash
+   py main.py
+   ```
