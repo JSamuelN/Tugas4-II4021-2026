@@ -5,7 +5,7 @@
 Tugas 4 II4021 Kriptografi - Semester II Tahun 2025/2026
 
 ## Deskripsi Program
-Aplikasi ini adalah Password Manager berbasis Python yang mengamankan brankas kata sandi menggunakan enkripsi AES-GCM dan skema pembagian kunci Shamir's Secret Sharing (2,3). Master key dipecah menjadi tiga bagian (lokal, server, dan pemulihan), di mana minimal dua bagian diperlukan untuk membuka, menambah, atau mengubah data kata sandi.
+Program ini adalah Password Manager berbasis Python yang mengamankan brankas kata sandi menggunakan enkripsi AES-GCM dan skema pembagian kunci Shamir's Secret Sharing (2,3). Master key dipecah menjadi tiga bagian (lokal, server, dan pemulihan), di mana minimal dua bagian diperlukan untuk membuka, menambah, atau mengubah data kata sandi.
 
 Fitur utama meliputi:
 - **Shamir's Secret Sharing (2,3)**: Memecah kunci utama (*master key*) menjadi 3 bagian, yaitu untuk lokal, server, dan pemulihan, di mana diperlukan minimal 2 bagian untuk merekonstruksi kunci.
