@@ -29,18 +29,13 @@ Fitur utama meliputi:
    ```
 
 ## Tata Cara Menjalankan Program
-```bash
-   git clone https://github.com/JSamuelN/Tugas4-II4021-2026.git
-   ```
-
-```bash
-   cd [path ke Tugas4-II4021-2026]
-   ```
-
+menjalankan source code secara langsung melalui Terminal (MacOS/Linux/Windows):
+1. Pastikan Python 3 telah terinstal di sistem Anda.
+2. pasang dependensi `pycryptodome`
 ```bash
    pip install pycryptodome
    ```
-
+3. Jalankan program utama
 ```bash
    py main.py
    ```
